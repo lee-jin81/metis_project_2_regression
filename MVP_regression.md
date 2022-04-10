@@ -3,7 +3,7 @@ In my initial proposal, I wanted to predict the ratings of skincare products, bu
 ### Heatmap
 Below is a heat map of the features, and as indicated in the figure, there doesn't seem to be correlations between the variables other than `len_ingredients` and `price_USD`.
 
-![Heat map](Skincare_heatmap.png)
+![Heat map](Skincare_heatmap_2.png)
 
 ### Regression model
 Then, I ran a linear regression module using `price_USD` as the predictor. Below is a summary of my model. The R-squared value was 0.257, which is quite low for the results and corresponds with the heat map that there is low or no correlation. Next, is the DB value of 2.046, which again suggest that there is no correlation.
