@@ -1,5 +1,6 @@
 [Code](https://github.com/lee-jin81/metis_project_2_regression/blob/main/Project2_Part1_webscraping.ipynb)
-[Slides]
+[Slides](https://github.com/lee-jin81/metis_project_2_regression/blob/main/project_2_regression_JL.pdf)
+[Write up](https://github.com/lee-jin81/metis_project_2_regression/blob/main/project_2_writeup_JL.docx)
 
 # Predicting the price of skincare products using linear regression
 ## Motivation
@@ -12,8 +13,8 @@ In this project, the price of skincare products will be predicted using a linear
 Over 1000 products features will be obtained by web scraping. 
 
 ## Tools
-* Web scraping: BeautifulSoup and Selenium
+* Web scraping: BeautifulSoup 
 * Linear regression: Python
 * Modeling: Sklearn
-* Visualizations: Pandas and matplotlib
+* Visualizations: pandas, matplotlib, and seaborn
 
