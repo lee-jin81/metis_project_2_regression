@@ -1,4 +1,5 @@
-[Code'(https://github.com/lee-jin81/metis_project_2_regression/blob/main/Project2_Part1_webscraping.ipynb)
+[Code](https://github.com/lee-jin81/metis_project_2_regression/blob/main/Project2_Part1_webscraping.ipynb)
+[Slides]
 
 # Predicting the price of skincare products using linear regression
 ## Motivation
