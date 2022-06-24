@@ -1,10 +1,7 @@
 
 **Links to specific parts of the project**
 
-[Code part 1: web scraping](https://github.com/lee-jin81/metis_project_2_regression/blob/main/Project2_Part1_webscraping.ipynb) <br>
-[Code part 2: processing data](https://github.com/lee-jin81/metis_project_2_regression/blob/main/Project2_Part2_processing_data.ipynb) <br>
-[Functions in code part 1 and 2](https://github.com/lee-jin81/metis_project_2_regression/blob/main/webscraping_functions.py)<br>
-[Code part 3: modeling](https://github.com/lee-jin81/metis_project_2_regression/blob/main/Project2_Part3_regression_model_v6.ipynb)<br>
+[Code](https://github.com/lee-jin81/metis_project_2_regression/tree/main/code)
 [Slides](https://github.com/lee-jin81/metis_project_2_regression/blob/main/project_2_regression_JL.pdf) <br>
 [Write up](https://github.com/lee-jin81/metis_project_2_regression/blob/main/project_2_writeup_JL.pdf) <br>
 [MVP](https://github.com/lee-jin81/metis_project_2_regression/blob/main/MVP_regression.md) <br>
