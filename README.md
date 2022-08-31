@@ -19,7 +19,7 @@ The beauty industry is a multibillion-dollar industry that is continuously growi
 The clients will be cosmetic businesses who are bringing a new product on the market. Businesses can use the model to understand how products are priced when they are presenting a new product. 
 
 ## Data
-The data set was 1,847 skincare products data obtained from www.ulta.com. The target was the price. The features of interest were price (target), volume (oz), number of reviews, product name, product description, benefits, ingredients list, clinical benefits, and clean product type.
+The data set was 1,847 skincare products data obtained from ulta.com The target was the price. The features of interest were price (target), volume (oz), number of reviews, product name, product description, benefits, ingredients list, clinical benefits, and clean product type.
 
 ## Algorithms
 ### Feature engineering
