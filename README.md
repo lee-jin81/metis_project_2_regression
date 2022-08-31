@@ -1,5 +1,5 @@
 
-**Links to specific parts of the project**
+**Links**
 
 [Code](https://github.com/lee-jin81/metis_project_2_regression/tree/main/code) <br>
 [Slides](https://github.com/lee-jin81/metis_project_2_regression/blob/main/slides_regression.pdf) <br>
