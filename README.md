@@ -39,7 +39,7 @@ The entire training set of 1501 data was split into 80% train and 20% test. The 
 used was cross validation ideal or a small/medium dataset.<br>
 
 Linear regression without regularization results
-* Train R2 [0.39054358, 0.41968104, 0.37822006, 0.52167151, 0.33326757]
+* Train R2 [0.390, 0.412, 0.378, 0.522, 0.333]
 * Mean train R2 0.409 +/- 0.063
 * Test R2: 0.413
 * MAE (mean absolute error) +- $: 13.66
