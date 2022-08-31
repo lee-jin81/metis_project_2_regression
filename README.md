@@ -2,10 +2,10 @@
 **Links to specific parts of the project**
 
 [Code](https://github.com/lee-jin81/metis_project_2_regression/tree/main/code) <br>
-[Slides](https://github.com/lee-jin81/metis_project_2_regression/blob/main/project_2_regression_JL.pdf) <br>
-[Final write up](https://github.com/lee-jin81/metis_project_2_regression/blob/main/project_2_writeup_JL.pdf) <br>
+[Slides](https://github.com/lee-jin81/metis_project_2_regression/blob/main/slides_regression.pdf) <br>
+[Write-up](https://github.com/lee-jin81/metis_project_2_regression/blob/main/writeup_regression.pdf) <br>
 [MVP](https://github.com/lee-jin81/metis_project_2_regression/tree/main/mvp) <br>
-[Proposal](https://github.com/lee-jin81/metis_project_2_regression/blob/main/project_2_proposal.pdf) <br>
+[Proposal](https://github.com/lee-jin81/metis_project_2_regression/blob/main/proposal_regression.pdf) <br>
 
 # Predicting the price of skincare products using linear regression
 ## Motivation
