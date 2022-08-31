@@ -29,7 +29,7 @@ The data set was 1,847 skincare products data obtained from www.ulta.com. The ta
 * presence of products to a list of clean ingredients obtained from ulta.com site.
 * product type: moisturizer vs serum
 
-2. Converting rating to rating2 based on pair plot where rating has a quadratic shape.<br>
+2. Converting rating to rating2 based on pairplot where rating has a quadratic shape.<br>
 
 ### Models
 Linear regression and Linear regression with regularization: Lasso, Ridge, and Elastic Net.
